@@ -12,7 +12,7 @@ For each order:
 
 1. Run the order processor:
    ```bash
-   python .claude/commands/scripts/process_orders.py $ARGUMENTS
+   python .claude/commands/process_order/scripts/process_orders.py $ARGUMENTS
    ```
    Supported arguments: `--dry-run` (preview without writing changes)
 
