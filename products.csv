@@ -1,0 +1,4 @@
+product_id,product_name,price,nb_available
+P001,Widget Alpha,29.99,0
+P002,Widget Beta,49.99,0
+P003,Widget Gamma,19.99,9
