@@ -23,6 +23,14 @@ def hello(name: str) -> str:
     return f"Hello, {name}!"
 ```
 
+## Sample Table
+
+| Name       | Language | Level    |
+|------------|----------|----------|
+| Alice      | Python   | Expert   |
+| Bob        | Markdown | Beginner |
+| Carol      | Bash     | Advanced |
+
 ## Conclusion
 
 If this document appears correctly in PDF form, the conversion pipeline is working as expected.
