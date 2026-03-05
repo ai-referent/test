@@ -1,3 +1,9 @@
+---
+description: "Simule le traitement des commandes clients depuis orders.csv : vérifie le stock, décrémente les quantités, met à jour les ventes. Utiliser quand l'utilisateur veut traiter ou prévisualiser des commandes."
+allowed-tools:
+  - Bash
+---
+
 # Process Orders
 
 Simulate the processing of customer orders from `orders.csv`.

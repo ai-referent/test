@@ -1,3 +1,9 @@
+---
+description: "Convertit tous les fichiers Markdown d'un répertoire source en PDF dans un répertoire de sortie via pandoc. Utiliser quand l'utilisateur veut générer des PDFs depuis des fichiers .md."
+allowed-tools:
+  - Bash
+---
+
 # Create PDF
 
 Convert all Markdown files from a source directory into PDF files stored in an output directory.
